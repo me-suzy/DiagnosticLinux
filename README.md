@@ -1,0 +1,2 @@
+# DiagnosticLinux
+Linux comenzi
